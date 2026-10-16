@@ -1,7 +1,7 @@
 # MAC 2026 · Arte, ciencia y memoria
 
 Recorrido digital de tres obras sobre Srinivasa Ramanujan, Alan Turing y
-Pierre de Fermat. Sitio estático en español, adaptable a móviles y publicado
+Pierre de Fermat. **Autor de las tres obras: Luis Berrospi.** Sitio estático en español, adaptable a móviles y publicado
 con GitHub Pages.
 
 | Obra | Dirección para el QR |
