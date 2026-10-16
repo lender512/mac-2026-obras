@@ -17,6 +17,8 @@ Portada: https://lender512.github.io/mac-2026-obras/
 Cada página incluye la obra ampliable, contexto biográfico, lectura de los
 símbolos, cronología y enlaces a las fuentes consultadas. Fermat incorpora
 un ejemplo interactivo para explorar exponentes con la terna (3, 4, 5).
+Las páginas de las obras se presentan de forma independiente, sin enlaces
+de navegación entre ellas. Luis Berrospi aparece como subtítulo bajo cada título.
 
 - Ramanujan: India como origen de una formación en gran medida autodidacta;
   se recoge también su aprendizaje con libros y su colaboración en Cambridge.

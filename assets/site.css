@@ -45,6 +45,8 @@ h3 { font-size: 1.65rem; line-height: 1.2; }
 p { font-size: 1rem; line-height: 1.85; }
 .home-intro { padding-top: clamp(3rem, 8vw, 7rem); padding-bottom: 3.5rem; display: grid; grid-template-columns: 1.7fr 1fr; gap: 5rem; align-items: end; }
 .home-intro h1 { max-width: 850px; margin-bottom: 0; }
+.author-subtitle { font-family: var(--serif); font-size: clamp(1.8rem, 2.8vw, 2.6rem); line-height: 1.25; color: var(--accent); margin: -.6rem 0 1.8rem; }
+.home-intro .author-subtitle { margin: 1.25rem 0 0; }
 .home-intro .intro-note { max-width: 340px; padding-bottom: .3rem; color: var(--muted); }
 .intro-note p { font-size: .95rem; }
 .small-link { font-size: .8rem; }
