@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lender512.github.io/mac-2026-obras/sitemap.xml

@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/lender512/mac-2026-obras",
+  "home": "https://lender512.github.io/mac-2026-obras/",
+  "pages": {
+    "ramanujan": "https://lender512.github.io/mac-2026-obras/ramanujan/",
+    "turing": "https://lender512.github.io/mac-2026-obras/turing/",
+    "fermat": "https://lender512.github.io/mac-2026-obras/fermat/"
+  }
+}
