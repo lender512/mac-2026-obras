@@ -47,8 +47,8 @@ GitHub Pages publica la raíz de la rama `main`. Los cambios subidos a esa
 rama actualizan el sitio. Mantén el nombre del repositorio y las carpetas
 `ramanujan/`, `turing/` y `fermat/` para conservar las direcciones de los QR.
 
-Las imágenes web proceden de los renders finales: Ramanujan 18, Turing 15 y
-Fermat 19. Se incluyen versiones de 600 y 1600 píxeles de ancho para servir
+Las imágenes web proceden de los renders finales: Ramanujan 23, Turing 15 y
+Fermat 38. Se incluyen versiones de 600 y 1600 píxeles de ancho para servir
 la imagen adecuada a cada pantalla. Los originales de impresión se conservan
 en el proyecto de Blender.
 
@@ -58,7 +58,7 @@ Las obras son composiciones digitales realizadas para este proyecto. El mapa
 de India utiliza contornos de [Natural Earth](https://www.naturalearthdata.com/about/terms-of-use/)
 (dominio público). La manzana se basa en [3D Apple 003 de ambientCG / Lennart Demes](https://ambientcg.com/view?id=3DApple003),
 un recurso [CC0](https://docs.ambientcg.com/license/) transformado para representar
-el deterioro. El sitio utiliza las fuentes del sistema del visitante.
+el deterioro. La madera de Fermat utiliza [Wood Table Worn de Poly Haven](https://polyhaven.com/a/wood_table_worn), CC0; fotografía de Dimitrios Savva y procesado de Rico Cilliers. El sitio utiliza las fuentes del sistema del visitante.
 
 `publication.json` registra las direcciones de publicación y `sitemap.xml`
 enumera las cuatro páginas principales.
